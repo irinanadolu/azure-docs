@@ -13,12 +13,12 @@
     {
       "source_path_from_root": "/articles/applied-ai-services/form-recognizer/concept-accuracy-confidence.md",
       "redirect_url": "/azure/ai-services/document-intelligence/concept-accuracy-confidence",
-      "redirect_document_idss": false
+      "redirect_document_idssss": false
     },
     {
       "source_path_from_root": "/articles/applied-ai-services/form-recognizer/concept-add-on-capabilities.md",
       "redirect_url": "/azure/ai-services/document-intelligence/concept-add-on-capabilities",
-      "redirect_document_id": false
+      "redirect_document_ids": false
     },
     {
       "source_path_from_root": "/articles/applied-ai-services/form-recognizer/concept-analyze-document-response.md",
